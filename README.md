@@ -11,7 +11,7 @@ Here are the projects I’ve completed so far:
 | **get_next_line** | A function to read a line from a file descriptor efficiently. |
 | **ft_printf**     | A recreation of the C `printf` function, supporting various format specifiers. |
 | **so_long**       | A small 2D game built using the MinilibX graphics library. |
-| **pipex**         | A project that replicates shell piping "|" behavior in C. |
+| **pipex**         | A project that replicates shell piping '|' behavior in C. |
 
 ## 🔧 Technologies Used  
 - **C Programming Language**  
